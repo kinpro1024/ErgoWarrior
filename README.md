@@ -4,6 +4,10 @@
 
 *To the best of my knowledge, this is the **first open source** Ergonomic Hitbox on a public platform.*
 
+
+![ErgoWarrior Early Right Half Render.](./Assets/WIP_Early_Right_Half.png)
+**WIP Right Half of ErgoWarrior**
+
 ## Why an Ergo-Design Matters
 
 Traditional flat controllers force the wrists and fingers into unnatural positions. Over time, this can lead to discomfort, fatigue, and even injuries such as repetitive strain injury (RSI) or carpal tunnel syndrome.

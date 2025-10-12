@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "ErgoWarrior_Final.kicad_prl",
+    "filename": "ErgoWarrior_Thumbs_Final.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -97,7 +97,7 @@
       103,
       74,
       103,
-      10
+      103
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

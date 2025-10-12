@@ -5,8 +5,9 @@
 *To the best of my knowledge, this is the **first open source** Ergonomic Hitbox on a public platform.*
 
 
-![ErgoWarrior Early Right Half Render.](./Assets/WIP_Early_Right_Half.png)
-**WIP Right Half of ErgoWarrior**
+![ErgoWarrior Right Half Print.](./Assets/WIP_Right_Half.JPG)
+![ErgoWarrior Right Half Print.](./Assets/WIP_Right_Half_2.JPG)
+**WIP Right Halves of ErgoWarrior's Alpha Build**
 
 ## Why an Ergo-Design Matters
 

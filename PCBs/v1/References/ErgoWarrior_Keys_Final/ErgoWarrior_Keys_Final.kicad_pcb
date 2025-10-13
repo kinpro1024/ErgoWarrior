@@ -1439,6 +1439,32 @@
 		(layer "Edge.Cuts")
 		(uuid "f5354a9f-11cb-469b-9d60-81141f063d13")
 	)
+	(gr_text "©2025 by kinpro1024"
+		(at 121.92 92.71 0)
+		(layer "F.SilkS")
+		(uuid "2b76bb61-e3d6-4ed3-83c6-eadf1c1dbdba")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ErgoWarrior_v1.0.0"
+		(at 108.966 77.978 0)
+		(layer "F.SilkS")
+		(uuid "6c03b4be-fd8b-4400-8d43-6f76b6581283")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "B4"
 		(at 188.75 93.4 -0)
 		(layer "B.SilkS")
@@ -1473,6 +1499,19 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "ErgoWarrior_v1.0.0"
+		(at 130.302 77.978 -0)
+		(layer "B.SilkS")
+		(uuid "65b6c507-b9f7-456c-918a-878eb0a4f847")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "B3"
@@ -1533,6 +1572,19 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "©2025 by kinpro1024"
+		(at 148.082 92.71 -0)
+		(layer "B.SilkS")
+		(uuid "e0735650-be5b-4c8f-ad28-b5918d31e5cd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "B3"

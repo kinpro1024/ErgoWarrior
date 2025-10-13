@@ -34,6 +34,49 @@
 		(45 "User.4" user)
 	)
 	(setup
+		(stackup
+			(layer "F.SilkS"
+				(type "Top Silk Screen")
+				(color "Black")
+			)
+			(layer "F.Paste"
+				(type "Top Solder Paste")
+			)
+			(layer "F.Mask"
+				(type "Top Solder Mask")
+				(color "White")
+				(thickness 0.01)
+			)
+			(layer "F.Cu"
+				(type "copper")
+				(thickness 0.035)
+			)
+			(layer "dielectric 1"
+				(type "core")
+				(thickness 1.51)
+				(material "FR4")
+				(epsilon_r 4.5)
+				(loss_tangent 0.02)
+			)
+			(layer "B.Cu"
+				(type "copper")
+				(thickness 0.035)
+			)
+			(layer "B.Mask"
+				(type "Bottom Solder Mask")
+				(color "White")
+				(thickness 0.01)
+			)
+			(layer "B.Paste"
+				(type "Bottom Solder Paste")
+			)
+			(layer "B.SilkS"
+				(type "Bottom Silk Screen")
+				(color "Black")
+			)
+			(copper_finish "None")
+			(dielectric_constraints no)
+		)
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
@@ -350,6 +393,7 @@
 			(at 0 -5 0)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "bc362293-2e4b-4c0b-a33b-06a8af8ea2ad")
 			(effects
 				(font
@@ -576,6 +620,7 @@
 			(at 0 -5 0)
 			(unlocked yes)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "b79102e8-ff05-4677-aa56-76aa6d33727a")
 			(effects
 				(font
@@ -902,6 +947,45 @@
 		(layer "Edge.Cuts")
 		(uuid "f21a292e-14bf-4a1f-9b1e-54e5546a4982")
 	)
+	(gr_text "©2025 by kinpro1024"
+		(at 139.446 92.71 0)
+		(layer "F.SilkS")
+		(uuid "aa73b01a-1846-45bd-b2a7-3208eac87605")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ErgoWarrior_v1.0.0"
+		(at 141.732 112.014 0)
+		(layer "F.SilkS")
+		(uuid "dd33196c-d170-4304-a3e9-3cdeb4e993eb")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ErgoWarrior_v1.0.0"
+		(at 163.068 112.014 -0)
+		(layer "B.SilkS")
+		(uuid "1e9a3b22-b236-4f1f-9327-c07fcf5a852f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "B6"
 		(at 132.588 99.06 -0)
 		(layer "B.SilkS")
@@ -936,6 +1020,19 @@
 				(thickness 0.15)
 			)
 			(justify mirror)
+		)
+	)
+	(gr_text "©2025 by kinpro1024"
+		(at 165.354 92.71 -0)
+		(layer "B.SilkS")
+		(uuid "8a56cfb5-af97-4965-ae52-f0c3f21a074c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "B5"

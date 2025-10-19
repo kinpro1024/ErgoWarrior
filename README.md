@@ -6,7 +6,8 @@
 
 
 ![ErgoWarrior v0 Alpha Build](./Assets/ErgoWarrior_v0_alpha.jpg)
-**WIP Right Halves of ErgoWarrior's Alpha Build**
+**ErgoWarrior v0_alpha build.**
+
 
 ![ErgoWarrior Right Half Print.](./Assets/WIP_Right_Half.JPG)
 ![ErgoWarrior Right Half Print.](./Assets/WIP_Right_Half_2.JPG)
@@ -29,6 +30,7 @@ In short, ergonomic designs are not just about comfort, they improve performance
 ### Hardware
 
 Raspberry Pi Pico is the main platform for ErgoWarrior.
+
 Cherry MX Low Profile switches are the switches used throughtout all forseen generations of Ergowarrior.
 
 ### Firmware

@@ -5,6 +5,9 @@
 *To the best of my knowledge, this is the **first open source** Ergonomic Hitbox on a public platform.*
 
 
+![ErgoWarrior v0 Alpha Build](./Assets/ErgoWarrior_v0_alpha.jpg)
+**WIP Right Halves of ErgoWarrior's Alpha Build**
+
 ![ErgoWarrior Right Half Print.](./Assets/WIP_Right_Half.JPG)
 ![ErgoWarrior Right Half Print.](./Assets/WIP_Right_Half_2.JPG)
 **WIP Right Halves of ErgoWarrior's Alpha Build**
@@ -23,6 +26,11 @@ An ergo-design, **like ErgoWarrior**, is built to keep your hands and wrists in 
 
 In short, ergonomic designs are not just about comfort, they improve performance and intend to protect your hands over the long term.
 
+### Hardware
+
+Raspberry Pi Pico is the main platform for ErgoWarrior.
+Cherry MX Low Profile switches are the switches used throughtout all forseen generations of Ergowarrior.
+
 ### Firmware
 
 Firmware used for ErgoWarrior is a tweaked build of [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE).
@@ -31,7 +39,7 @@ Firmware used for ErgoWarrior is a tweaked build of [GP2040-CE](https://github.c
 
 ### v0 (Alpha and Beta Builds)
 
-A kof style 4+4 (L+R) controller will be released as Alpha by mid-October with a beta build arriving on the same platform in late October.
+A kof style 4+4 (L+R) controller will be released as Alpha by mid-October with a beta build arriving on the same platform in late October. (Alpha Build out.)
 
 ### v1 (Full Release)
 

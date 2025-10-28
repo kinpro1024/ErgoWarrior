@@ -41,10 +41,10 @@ Firmware used for ErgoWarrior is a tweaked build of [GP2040-CE](https://github.c
 
 ### v0 (Alpha and Beta Builds)
 
-A kof style 4+4 (L+R) controller will be released as Alpha by mid-October with a beta build arriving on the same platform in late October. (Alpha Build out.)
+A kof style 4+4 (L+R) controller will be released as Alpha by mid-October with a beta build arriving on the same platform in late October. (Alpha Build out.) (Beta build cancelled, firmware merged with v1.)
 
 ### v1 (Full Release)
 
-A Third-Strike style controller with a (6+10)* (L+R) layout is currently slated for release in mid-November.
+A Third-Strike style controller with a (6+10)* (L+R) layout is currently slated for release in mid-November. (90% done, bridge and handle yet to be finalised, waiting on the arrival of PCBs.)
 
 \* **Tentative, may change.**

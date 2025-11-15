@@ -1,17 +1,24 @@
 # ErgoWarrior
 
-**ErgoWarrior is a completely open-source, ergonomic hitbox-style leverless controller. It was born out of a complete lack of open source ergonomic hitbox designs.**
+**ErgoWarrior is a completely open-source, ergonomic hitbox-style leverless controller. It was born out of a complete lack of contoured open-source ergonomic hitbox designs.**
 
-*To the best of my knowledge, this is the **first open source** Ergonomic Hitbox on a public platform.*
+*To the best of my knowledge, this is the **first open-source** Contoured Ergonomic Hitbox on a public platform.*
+
+
+![ErgoWarrior v1 Design.](./Assets/ErgoWarrior_v1_mechanical_design.png)
+**ErgoWarrior v1.0.0 Mechanical Design.**
+
+
+![ErgoWarrior v0 vs v1 PCBs.](./Assets/v0_vs_v1_PCBs.jpg)
+**ErgoWarrior v1 PCBs *(left)* and ErgoWarrior v0 Testbed PCB.*(right)***
 
 
 ![ErgoWarrior v0 Alpha Build](./Assets/ErgoWarrior_v0_alpha.jpg)
-**ErgoWarrior v0_alpha build.**
+**ErgoWarrior v0_alpha Build.**
 
 
-![ErgoWarrior Right Half Print.](./Assets/WIP_Right_Half.JPG)
 ![ErgoWarrior Right Half Print.](./Assets/WIP_Right_Half_2.JPG)
-**WIP Right Halves of ErgoWarrior's Alpha Build**
+**WIP Right Half of ErgoWarrior's Pre-Alpha Build.**
 
 ## Why an Ergo-Design Matters
 

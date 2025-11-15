@@ -45,6 +45,6 @@ A kof style 4+4 (L+R) controller will be released as Alpha by mid-October with a
 
 ### v1 (Full Release)
 
-A Third-Strike style controller with a (6+10)* (L+R) layout is currently slated for release in mid-November. (90% done, bridge and handle yet to be finalised, waiting on the arrival of PCBs.)
+A Third-Strike style controller with a (6+10)* (L+R) layout is currently slated for release in ~~mid-November~~ late November (Delay in arrival of PCBs). (90% done, bridge and handle yet to be finalised, waiting on the arrival of PCBs.)
 
 \* **Tentative, may change.**

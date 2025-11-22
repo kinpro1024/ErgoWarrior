@@ -5,7 +5,7 @@
 *To the best of my knowledge, this is the **first open-source** Contoured Ergonomic Hitbox on a public platform.*
 
 
-![ErgoWarrior v1 Design.](./Assets/ErgoWarrior_v1_mechanical_design.png)
+![ErgoWarrior v1 Design.](./Assets/ErgoWarrior_v1_mechanical_design_final.png)
 **ErgoWarrior v1.0.0 Mechanical Design.**
 
 

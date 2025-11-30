@@ -39,22 +39,31 @@ Cherry MX Low Profile switches are the switches used throughtout all forseen gen
 
 ErgoWarrior is designed to go with [M3 Hex Socket 10mm Screws](https://onlyscrews.in/products/m3-x-10mm-hex-allen-socket-head-high-tensile12-9-black-anodized-screw?_pos=17&_sid=9edb84e19&_ss=r) and [8mm M3 Injection Molding Brass Inserts](https://onlyscrews.in/products/m3-x-8mm-brass-threaded-inserts).
 
+Refer to Instructions.md for full instructions in assembly.
+
+**Print Settings:** All Prints except the ultralight arcade button are done at 0.2mm layer height with the latter at 0.08mm LH. Refer to 3mf files for full details.
+**Note:** Some Sanding is required on the jump buttons for optimal fit.
+
 ### Firmware
 
 Firmware used for ErgoWarrior is a tweaked build of [GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE). Plug-and-Play firmware will drop soon. Until then stock GP2040-CE for the Raspberry Pi Pico must be used. Keybinds as below:
 ![ErgoWarrior Keybinds](./Assets/ErgoWarrior_Keybinds.png)
 
+## Note on Sizing
+
+The ErgoWarrior is currently available in **only one size**, which corresponds to my personal hand size.  
+If you need a different size, you may scale and modify the model yourself with the step files to better fit your requirements.
+
+*If you're unsure how to do that, feel free to open an issue thread in the repository. I’m not making any promises at the moment, but I will look into it if possible.*
 
 ## Timeline
 
 ### v0 (Alpha and Beta Builds) (Released on 19/Oct/2025) (Deprecated)
 
-A kof style 4+4 (L+R) controller will be released as Alpha by mid-October with a beta build arriving on the same platform in late October. (Alpha Build out.) (Beta build cancelled, changes merged with v1.)
+A kof style 4+4 (L+R) controller was released as Alpha Build by mid-October ~~with a beta build arriving on the same platform in late October~~. (Alpha Build out.) (Beta build cancelled, changes merged with v1.)
 
-### v1 (Full Release) (Released) (Released on 29/Nov/2025)
+### v1 (Full Release) (Released on 29/Nov/2025)
 
-A Third-Strike style controller with a (6+10)* (L+R) layout is currently slated for release in ~~mid-November~~ late-November (Delay in arrival of PCBs).
-**Print Settings:** All Prints except the ultralight arcade button are done at 0.2mm layer height with the latter at 0.08mm LH. Refer to 3mf files for full details.
-**Note:** Some Sanding is required on the jump buttons for optimal fit.
+A Third-Strike style controller with a (6+10)* (L+R) layout was slated for release in ~~mid-November~~ late-November (Delay in arrival of PCBs).
 
 \* **Tentative, may change.**

@@ -4,6 +4,9 @@
 
 *To the best of my knowledge, this is the **first open-source** Contoured Ergonomic Hitbox on a public platform.*
 
+# Major Update: An overhaul of the Handle/Bridge Design is in the works.
+
+**I had the Handle Fail and Break in my flight luggage as it was being thrown around. ErgoWarrior was designed to be robust, and this result was not good enough. The overhaul will also address the inability to completely remove cables once assembled, enhancing repairability.**
 
 ![ErgoWarrior v1.0.0](./Assets/ErgoWarrior_v1.0.0.jpg)
 **ErgoWarrior v1.0.0 Mechanical Design.**

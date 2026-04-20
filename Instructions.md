@@ -56,7 +56,7 @@ The complete assembly instructions and Bill of Materials (BOM) for the ErgoWarri
 # SECTION 1: 3D PRINTING
 This section includes details and postprocessing of all the 3D prints you will need for building the ErgoWarrior v1.0.0. Also Note that I colour the raised lettering with a black permanent marker.
 
-## Step 1: Obtain the STLs and Slice Them
+## Step 1: Obtain the STLs (and the Handle 3MF for v1.1.0) and Slice Them
 1. Download all the required STL files from the ErgoWarrior repository.  
 2. Import the STLs into your preferred slicer (I use OrcaSlicer.).  
 3. Use the recommended layer heights and refer to the `.3mf.gcode` files in the repository:
@@ -168,7 +168,7 @@ Never twist the wire bundle coming out of the **Mainboard**.
 
 ---
 
-## Step 7: Solder the  Caddy Keys
+## Step 7: Solder the Caddy Keys
 1. Bear in mind the Caddies are reversible so nail down the orientation of the pcb before soldering.
 2. Now Solder all the Cherry MX Keys on the Caddies.
 ![key caddy](./Assets/Instructions/Caddy_solder.png)
@@ -179,6 +179,7 @@ Never twist the wire bundle coming out of the **Mainboard**.
 
 Before proceeding, remember:  
 ### DO NOT SOLDER THE FEMALE JST CONNECTORS YET, DUE TO AN OVERSIGHT ON MY PART YOU CAN'T ASSEMBLE ERGOWARRIOR IF YOU SOLDER FEMALE JST CONNECTORS BEFORE MOUNTING THE PCB ON THE BRIDGE.
+## THIS FLAW HAS BEEN ADDRESSED AND FIXED IN V1.1.0.
 **The female JST connectors cannot physically fit through those holes.**
 
 Additionally:  
@@ -195,7 +196,7 @@ Solder the wires directly to the mainboard pads in organized **clusters**, match
 - A **5-wire cluster**
 - A second **5-wire cluster**
 - A **3-wire cluster**
-- *(Note: In the reference photo, the **white wire** is redundant — included only for completion.)*
+- *(Note: In the reference photo, the **white wire** is redundant and included only for completion.)*
 
 *Left Side*
 - Solder one **5-wire cluster**

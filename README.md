@@ -4,7 +4,7 @@
 
 *To the best of my knowledge, this is the **first open-source** Contoured Ergonomic Hitbox on a public platform.*
 
-# Major Update: An overhaul of the Handle/Bridge Design is in the works. (As of 31/Mar/2026, the design is complete, fabricated and undergoing testing. Expect a v1.1.0 release in a few days, like the one in the picture.)
+# Major Update: An overhaul of the Handle/Bridge Design is in the works. (Released as v1.1.0)
 
 **I had the Handle Fail and Break in my flight luggage as it was being thrown around. ErgoWarrior was designed to be robust, and this result was not good enough. The overhaul will also address the inability to completely remove cables once assembled, enhancing repairability.**
 
@@ -71,5 +71,9 @@ A kof style 4+4 (L+R) controller was released as Alpha Build by mid-October ~~wi
 ### v1 (Full Release) (Released on 29/Nov/2025)
 
 A Third-Strike style controller with a (6+10)* (L+R) layout was slated for release in ~~mid-November~~ late-November (Delay in arrival of PCBs).
+
+### v1.1.0 (Released 20 Apr)
+
+This was not a a release I had planned, however as the ErgoWarrior handle failed in what I would call abnormal but expected load conditions, I have completely reworked the handle, this time using Topology Optimisation to make it absolutely sure it does not fail like that again.
 
 \* **Tentative, may change.**

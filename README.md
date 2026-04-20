@@ -64,15 +64,15 @@ If you need a different size, you may scale and modify the model yourself with t
 
 ## Timeline
 
-### v0 (Alpha and Beta Builds) (Released on 19/Oct/2025) (Deprecated)
+### v0.0.0 and v0.5.0 (Alpha and Beta Builds) (Released on 19/Oct/2025) (Deprecated)
 
 A kof style 4+4 (L+R) controller was released as Alpha Build by mid-October ~~with a beta build arriving on the same platform in late October~~. (Alpha Build out.) (Beta build cancelled, changes merged with v1.)
 
-### v1 (Full Release) (Released on 29/Nov/2025)
+### v1.0.0 (Full Release) (Released on 29/Nov/2025) (Deprecated)
 
 A Third-Strike style controller with a (6+10)* (L+R) layout was slated for release in ~~mid-November~~ late-November (Delay in arrival of PCBs).
 
-### v1.1.0 (Released 20 Apr)
+### v1.1.0 (Released on 20/Apr/2026)
 
 This was not a a release I had planned, however as the ErgoWarrior handle failed in what I would call abnormal but expected load conditions, I have completely reworked the handle, this time using Topology Optimisation to make it absolutely sure it does not fail like that again.
 
